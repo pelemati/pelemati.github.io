@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pelemati.github.io/pelemati.pelemati
+Sitemap: https://pelemati.github.io/app/pelemati.pelemati
+Sitemap: https://pelemati.github.io/assets/pelemati.pelemati
+Sitemap: https://pelemati.github.io/css/pelemati.pelemati
+Sitemap: https://pelemati.github.io/includes/pelemati.pelemati
+Sitemap: https://pelemati.github.io/item/pelemati.pelemati
+Sitemap: https://pelemati.github.io/src/pelemati.pelemati
